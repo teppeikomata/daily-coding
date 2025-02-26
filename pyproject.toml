@@ -2,7 +2,10 @@
 name = "daily-coding"
 version = "0.1.0"
 description = "Add your description here"
-dependencies = []
+dependencies = [
+    "icecream>=2.1.4",
+    "numpy>=2.2.3",
+]
 readme = "README.md"
 requires-python = ">= 3.8"
 

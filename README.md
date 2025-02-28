@@ -29,6 +29,8 @@
     - C++
         ```
         g++ -o hello hello.cpp
+        or
+        g++ -std=c++17 type.cpp -o type
         ./hello
         ```
 
